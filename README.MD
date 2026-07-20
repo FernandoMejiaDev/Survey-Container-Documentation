@@ -7,7 +7,6 @@
 
 [![Dependencia-NPM](https://img.shields.io/badge/Dependencia_NPM-000000?style=for-the-badge&logo=npm&logoColor=CB3837)](https://www.npmjs.com/package/survey-container)
 
-
 ## Una forma sencilla de integrar survey container a tu proyecto
 
 Desde la configuración de tu base de datos hasta la integración en tu frontend, estos pasos te guiarán en todo el proceso para comenzar a usar la dependencia survey container de forma eficiente y rápida.
